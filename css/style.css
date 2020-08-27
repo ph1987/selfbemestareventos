@@ -660,6 +660,7 @@ Start Section about
 .about .image,
 .about .words{
     margin-bottom: 30px;
+    margin-left: 15px;
 }
 
 .about .image img{
